@@ -157,5 +157,3 @@ plt.legend(loc='upper right', shadow=True, fontsize='x-large', numpoints=1)
 show()
 
 raw_input("Program paused. Press Enter to continue...")
-
-
